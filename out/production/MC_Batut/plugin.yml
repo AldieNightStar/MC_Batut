@@ -1,0 +1,8 @@
+name: simpleBatut
+version: 1.0
+main: mcBatut.BatutPlugin
+commands:
+  sbatut:
+    description: Set Batut tiling mode
+    permission: sbatut.put
+    usage: sbatut [on|off]

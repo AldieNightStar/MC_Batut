@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Batut">
+    <output-path>$USER_HOME$/Desktop/server/plugins</output-path>
+    <root id="archive" name="Batut.jar">
+      <element id="module-output" name="MC_Batut" />
+    </root>
+  </artifact>
+</component>
